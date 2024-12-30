@@ -3,5 +3,5 @@
 * Rennaissance Book
 This is a personal research project that may, one day, become a published work. Time and attention will tell.
 
-
+#+HTML:&copy 2024 Tim Hawes
 # Copyright (C) 2024 by Tim Hawes
